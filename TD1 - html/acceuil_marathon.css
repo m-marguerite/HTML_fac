@@ -1,0 +1,100 @@
+#header {
+    height: 115px;
+    background-color:#e28e20;
+    display: block;
+    padding-top: 2%;
+    border: 2px solid black;
+}
+
+body {
+    background-color: #CACACA;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    color: black;
+
+}
+
+.texte1 {
+    font-family: Verdana, sans-serif;
+    font-size: large;
+    font-weight: normal;
+    position: relative;
+    bottom: 450px;
+    right: 750px;
+    text-align: justify;
+}
+
+.image_droite {
+    width: 600px;
+    height: 500px;
+    position: relative;
+    left: 50%;
+}
+
+.texte2 {
+    font-family: Verdana, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.texte3 {
+    font-family: Verdana, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.boite1{
+    margin: 1%;
+    padding: 0.5%;
+    width: 97%;
+    background-color:#CACACA;
+    text-align: center;
+}
+
+.boite2{
+    margin: 1%;
+    padding: 1%;
+    width: 96%;
+    background-color: #928c8c6e;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.boite3{
+    margin: 1%;
+    padding: 1%;
+    width: 96%;
+    background-color: #928c8c6e;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    border-radius: 30px;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, sans-serif;
+}

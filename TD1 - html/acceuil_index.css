@@ -1,0 +1,40 @@
+#header {
+    height: 125px;
+    background-color:#e28e20;
+    display: block;
+    padding-top: 2%;  
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+.question {
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.reponse {
+    font-weight: normal;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+.zen_garden {
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+}
